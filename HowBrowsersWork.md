@@ -18,3 +18,13 @@ Browser interfaces are not specified in any formal specification. Although HTML5
     - The browser sends an HTTP request through the internet to where the server that runs the website is located
     - the web server then sends back an HTTP response which is read by the browser to display the site
     - the response contains the website in HTML form, which the browser translates and displays the complete site as we view them
+HTTP Requests Contain 3 Parts:
+    1. Request line: command, web page requested, HTTP version number
+    2. Request header: includes browser in use, date, and some other info
+    3. Request body: contains information that was sent to the server (optional)
+Below is an Example Request:
+GET             Salisbury/home.html             HTTP/1.1
+Host:www.su.edu                                 Request line
+Date: Tues 08 Sept 2006 13:45:34 EST
+User-Agent: Mobile/7.0
+Referrer: http:salisbury.edu/~welcome
