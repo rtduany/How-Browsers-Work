@@ -1,3 +1,5 @@
 # How Browsers Work
-# Introduction:
+# Introduction
 We all know what browsers are and what they do. However, many of us do not know how they function in the background. Browsers are, by far, the most used software. As a Web developers, you do need to know the mechanics of how browsers work behind the scenes. We will see what happens when you type in a search such google.com in the address bar until you see the google page on the browser window. That knowledege would help you to decipher the justifications behind development best practices.
+#Major Browsers
+There are a lot of browsers to choose from (both desktop and mobile). There are five major browsers used for desktops today: Frefox, Chrome, Safari, Inernet Explorer (IE), and Opera. Major browsers in use for mobile: Android Browser, iPhone, Opera Mini and Opera Mobile, UC Browser, the Nokia S40/S60 browsers and Chrome. As of June, 2013, Chrome, Firefox and Safari make up 71% of global desktop browser usage, according to StatCounter Statistics. Android, iPhone, and Chrome made up 54% of usage on mobile.
