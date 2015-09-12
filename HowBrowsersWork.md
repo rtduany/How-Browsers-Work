@@ -13,3 +13,8 @@ Browser user interfaces have a lot in common and consist of the following:
     - Refresh and stop buttons for refreshing or stopping the loading of current documents
     - Home button that takes you back to your home page
 Browser interfaces are not specified in any formal specification. Although HTML5 specifications does not define any UI elements a browser must have, it does list some common elements. Among these elements are Address Bar, Status Bar, and Tool Bar.
+# How browsers Functions
+    - As soon as you type in a web address into your browser's address bar, some communication starts to occurs
+    - The browser sends an HTTP request through the internet to where the server that runs the website is located
+    - the web server then sends back an HTTP response which is read by the browser to display the site
+    - the response contains the website in HTML form, which the browser translates and displays the complete site as we view them
