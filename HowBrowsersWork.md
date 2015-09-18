@@ -48,4 +48,5 @@ Contains 3 parts:
     -----
     </body>
     </html>                                                                Response body in HTML
-    Amazingly, this whole process takes less than 1 second depending on your internet connection.
+    Amazingly, this whole process takes less than 1 second depending on your internet connection. So, 
+there is alot that goes on under the hood of browsers that most people do not realize or understand.
